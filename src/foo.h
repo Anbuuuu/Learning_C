@@ -1,0 +1,1 @@
+int checkNumber(int number);
